@@ -7,4 +7,6 @@ You can report issues on [here](https://github.com/kyoyacchi/zerochan-downloader
 
 Tested on *Violentmonkey*
 
+You can install it from [here](https://raw.githubusercontent.com/kyoyacchi/zerochan-downloader/master/main.js)
+
 Thanks.
