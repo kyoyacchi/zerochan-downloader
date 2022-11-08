@@ -3,11 +3,15 @@
 // @namespace   https://kyoya.ga/mal
 // @match       https://static.zerochan.net/*
 // @match       https://www.zerochan.net/*
-// @version     1.7
+// @version     1.8
 // @author      kyoyacchi
 // @description Downloads image when you click to download icon on zerochan.net.
 // @license     none
 // @icon        https://www.google.com/s2/favicons?domain=zerochan.net
+// @supportURL  https://github.com/kyoyacchi/zerochan-downloader/issues
+// @updateURL   https://raw.githubusercontent.com/kyoyacchi/zerochan-downloader/master/main.js
+// @installURL  https://raw.githubusercontent.com/kyoyacchi/zerochan-downloader/master/main.js
+// @downloadURL https://raw.githubusercontent.com/kyoyacchi/zerochan-downloader/master/main.js
 // ==/UserScript==
 
 
