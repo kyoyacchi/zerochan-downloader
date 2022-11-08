@@ -5,4 +5,6 @@
 
 You can report issues on [here](https://github.com/kyoyacchi/zerochan-downloader/issues)
 
+Tested on *Violentmonkey*
+
 Thanks.
